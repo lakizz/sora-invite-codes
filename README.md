@@ -1,7 +1,7 @@
 
 # 🎬 Sora Invite Code Hub: Your Ultimate Guide to Accessing Sora 2
 
-[![Live Code Feed](https://img.shields.io/badge/Live%20Code-Feed-brightgreen.svg)](https://gityavis.github.io/sora-invite-codes)
+[![Live Code Feed](https://img.shields.io/badge/Live%20Code-Feed-brightgreen.svg)](https://sora-2-invate-codes.lakipros.workers.dev/)
 [![Join Waitlist](https://img.shields.io/badge/Official-Waitlist-blue.svg)](https://openai.com/sora)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gityavis.github.io/sora-invite-codes" target="_blank" rel="noopener noreferrer">
+  <a href="https://sora-2-invate-codes.lakipros.workers.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GET_CODES_HERE-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Get Codes Here">
   </a>
 </p>
@@ -29,7 +29,7 @@ Access to Sora 2 is currently invite-only. Here are the **only two legitimate wa
     *   **➡️ [Join the Official Sora Waitlist](https://openai.com/sora)**
 
 2.  **Community Code Exchange:** Existing users often share their **invite codes** with the community. We've created a dedicated website for this.
-    *   **➡️ [🎥 LIVE: Sora Invite Code Exchange & Giveaway Hub](https://gityavis.github.io/sora-invite-codes)** *(Check here for active, community-shared codes)*
+    *   **➡️ [🎥 LIVE: Sora Invite Code Exchange & Giveaway Hub](https://sora-2-invate-codes.lakipros.workers.dev/)** *(Check here for active, community-shared codes)*
 
 > **⚠️ Warning:** Beware of scams. Never pay for a **Sora invite code**. Official codes are free.
 
@@ -76,7 +76,7 @@ See what's possible with Sora 2. We curate the best **Sora 2 video** examples fr
 
 The best place to find a **working sora invite code** is within the community.
 
-*   **🎥 Our Live Code Feed:** [**SoraInviteCodes.com**](https://gityavis.github.io/sora-invite-codes) - This is our primary hub for code sharing.
+*   **🎥 Our Live Code Feed:** [**SoraInviteCodes.com**](https://sora-2-invate-codes.lakipros.workers.dev/) - This is our primary hub for code sharing.
 *   **Reddit:** [/r/OpenAI](https://www.reddit.com/r/OpenAI/) - Search for "Sora 2 code exchange" threads.
 *   **Discord:** Find AI-focused Discord servers where members are actively sharing access.
 
@@ -102,7 +102,7 @@ This repository is an **unofficial, community-driven resource**. We are not affi
 
 We welcome contributions! Here's how you can help:
 
-1.  **Share a Code:** If you have a code to share, post it on our [Live Code Feed website](https://gityavis.github.io/sora-invite-codes).
+1.  **Share a Code:** If you have a code to share, post it on our [Live Code Feed website](https://sora-2-invate-codes.lakipros.workers.dev/).
 2.  **Add a Video:** Submit a new video example for our showcase by opening a new issue.
 3.  **Report a Scam:** If you find a scam site, report it in an issue to warn others.
 4.  **Improve Docs:** Suggest changes or additions to our guides.
