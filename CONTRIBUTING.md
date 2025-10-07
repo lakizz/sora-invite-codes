@@ -10,7 +10,7 @@ We welcome several types of contributions:
 
 This is the most valuable way to contribute! Please share your codes responsibly.
 
-*   **Where to Share:** Post your code on our main website: [https://gityavis.github.io/sora-invite-codes](https://gityavis.github.io/sora-invite-codes)
+*   **Where to Share:** Post your code on our main website: [https://gityavis.github.io/sora-invite-codes](https://github.com/lakizz/sora-invite-codes)
 *   **GitHub Issue:** You can also open a new issue using the "Share a Code" template to notify the community.
 
 ### 2. Adding a Sora 2 Video Example
